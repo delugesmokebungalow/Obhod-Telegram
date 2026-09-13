@@ -1,0 +1,19 @@
+# Obhod-Telegram
+
+> Актуальная версия с поддержкой обхода Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+
+Если в Telegram не грузятся картинки, Obhod-Telegram чинит канал без VPN-клиента.
+
+## Страницы
+- Сайт: https://delugesmokebungalow.github.io/Obhod-Telegram/
+- Релиз: https://github.com/delugesmokebungalow/Obhod-Telegram/releases/latest
+- Исходный код: https://github.com/delugesmokebungalow/Obhod-Telegram
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
